@@ -85,10 +85,7 @@ A venir
 
 
 -----
-J'ai un site provisoire pour Simflex ( sera changer a l'avenir )
-` Site en construction`
-
-[Simflex](romaint.promo-5.codeur.online/simflex/)
+J'ai un site provisoire pour Simflex ( sera changer a l'avenir ): [Simflex](romaint.promo-5.codeur.online/simflex/) ` Site en construction`
 
 Si vous voulez me parler pour comprendre certaine chose ou me dire si c'est mal expliqué: [linkedin](linkedin.com/in/romain-tharradin-4a6291159/)
 
