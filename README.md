@@ -6,6 +6,7 @@ Simflex est un framework html/css/javascript créer pour but de simplifier l'emp
 >Simflex 
 >--------
 > Sim = simple
+
 > flex = flexbox
 
 
@@ -17,6 +18,7 @@ Simflex est un framework html/css/javascript créer pour but de simplifier l'emp
 
 
 Pour utiliser gulpjs pour le scss utiliser la commande watch
+
 `gulp scss`
 
 
@@ -29,6 +31,7 @@ Les colonnes
 
  La classe à ajouter pour les colonnes est 
  `c = colonne lg= Type d'écran 24 = nombre de colonne utilisé`
+ 
  Type d'écran
  
 
@@ -71,6 +74,8 @@ Exemple :
  Dans cette exemple nous voyons qu'en écran large celui ci sera placer en haut a gauche, en medium au center et en petite écran en bas a droite.
 
 (Bien sur center-block est different pour la simple est bonne raison de ne pas porter a confusion si c'était center-center( peux toujours changer ) )
+
+`Encore une précision le texte se comporte de la même manière pour le centrer avec center-block_(type d'écran).`
 
 
 ## Le carousel
