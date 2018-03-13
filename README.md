@@ -73,7 +73,7 @@ Exemple :
  
  Dans cette exemple nous voyons qu'en écran large celui ci sera placer en haut a gauche, en medium au center et en petite écran en bas a droite.
 
-(Bien sur center-block est different pour la simple est bonne raison de ne pas porter a confusion si c'était center-center( peux toujours changer ) )
+`Bien sur center-block est different pour la simple est bonne raison de ne pas porter a confusion si c'était center-center( peux toujours changer ) `
 
 `Encore une précision le texte se comporte de la même manière pour le centrer avec center-block_(type d'écran).`
 
