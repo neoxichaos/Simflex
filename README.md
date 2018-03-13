@@ -89,3 +89,9 @@ J'ai un site provisoire pour Simflex ( sera changer a l'avenir )
 ` Site en construction`
 
 [Simflex](romaint.promo-5.codeur.online/simflex/)
+
+Si vous voulez me parler pour comprendre certaine chose ou me dire si c'est mal expliqué: [lindin](linkedin.com/in/romain-tharradin-4a6291159/)
+
+Vous pouvez apporter toute modificaton et je changerais si ça peux être encore plus simple ou des ajouts. 
+
+Bien sur utiliser le plus de flexbox possible, si ce n'est pas possible il faudrais voir si c'est compatible avec le framework.
