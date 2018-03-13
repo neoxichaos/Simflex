@@ -1,0 +1,26 @@
+// ############################
+// nav & paramètre
+// ############################
+@import "nav.scss";         // Tout les styles de menu
+@import "head.scss";        // Paramètre generaux
+@import "container.scss";   // Les conteneurs disponible
+// ############################
+// Police et couleur
+// ############################
+@import "color.scss";       // Couleur utiliser
+@import "font.scss";        // Police utiliser
+// ############################
+// Placement
+// ############################
+@import "flex.scss";        // Quelque option a rajouter pour rendre plus facile d'utilisation
+@import "column.scss";      // Fini
+// ############################
+// Boutton
+// ############################
+@import "button.scss";
+// ############################
+// Autre
+// ############################
+@import "carousel.scss";    // Besoin de Simflex.js. Pas fini
+@import "tab.scss";         // Aucune idée. Pas fini
+@import "panel.scss";       // Fini, mais trouver un bon design

@@ -1,0 +1,13 @@
+.btn{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    background-color:rgba(0, 0, 0, 0.612);
+    color:white;
+    transition: all 500ms;
+    }
+.btn:hover{
+    background-color:rgba(0, 0, 0, 1);
+}
+a.btn{text-decoration: none;}

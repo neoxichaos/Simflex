@@ -1,0 +1,26 @@
+/* ######################## */
+/* ## Container et ligne ## */
+/* ######################## */
+
+.container {
+    width: 1170px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    color: black;
+}
+
+@media (max-width: 1170px) {
+    .container {
+        width: 100%;
+    }
+}
+
+.container-fluid {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
