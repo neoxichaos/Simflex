@@ -1,14 +1,20 @@
-Simflex
-## SIMFLEX
-Simflex est un framework html/css/javascript créer pour but de simplifier l'emplacement des éléments sur un site web baser sur les flexbox.
+# SIMFLEX
 
+Simflex est un framework html/css/javascript créer pour but de simplifier les éléments sur un site web grâce au flexbox.
 
->Simflex 
->--------
-> Sim = simple
+> SimFlex (Slim: Simple; Flex: flexbox)
 
-> flex = flexbox
+## Utiliser SlimFlex
 
+```HTML
+<!-- MINIFIED -->
+<link rel="stylesheet" href="/css/simflex.css">
+
+<!-- NOT MINIFIED -->
+<link rel="stylesheet" href="/css/simflex.min.css">
+```
+
+## Utiliser SCSS
 
 `Pour utiliser les scss, vous aurez besoin de nodejs et gulpjs`
 
@@ -29,11 +35,11 @@ Les colonnes
  - Colonne pour grand écran, moyen et petit.
  - Disponible jusqu'à 24 colonnes.
 
- La classe à ajouter pour les colonnes est 
+ La classe à ajouter pour les colonnes est
  `c = colonne lg= Type d'écran 24 = nombre de colonne utilisé`
- 
+
  Type d'écran
- 
+
 
  - Large = lg
  - Moyen = md
@@ -49,7 +55,7 @@ Donc possibilité de customiser exemple :
     <section class="clg12(colonne de 12/24 sur un écran grand)">
 	(contenue de la balise HTML)
 	<section>
-	
+
 ## La hauteur
 
 Simplement à vous de la définir.
@@ -70,7 +76,7 @@ Ensuite on choisi le type d'écran ( lg, md ,xs ).
 Exemple :
  `<section class="top-left_lg center-block_md bottom-right_xs>"
  `
- 
+
  Dans cette exemple nous voyons qu'en écran large celui ci sera placer en haut a gauche, en medium au center et en petite écran en bas a droite.
 
 `Bien sur center-block est different pour la simple est bonne raison de ne pas porter a confusion si c'était center-center( peux toujours changer ) `
@@ -89,6 +95,6 @@ J'ai un site provisoire pour Simflex ( sera changer a l'avenir ): [Simflex](roma
 
 Si vous voulez me parler pour comprendre certaine chose ou me dire si c'est mal expliqué: [linkedin](linkedin.com/in/romain-tharradin-4a6291159/)
 
-Vous pouvez apporter toute modificaton et je changerais si ça peux être encore plus simple ou des ajouts. 
+Vous pouvez apporter toute modificaton et je changerais si ça peux être encore plus simple ou des ajouts.
 
 Bien sur utiliser le plus de flexbox possible, si ce n'est pas possible il faudrais voir si c'est compatible avec le framework.
